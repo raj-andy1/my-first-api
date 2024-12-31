@@ -1,0 +1,14 @@
+### GET request to example server
+GET http://localhost:8080/greet
+
+###
+
+POST http://localhost:8080/greet
+
+{"name": "arna"}
+
+###
+
+PUT http://localhost:8080/greet
+
+{"name": "arna"}
