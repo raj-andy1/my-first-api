@@ -5,10 +5,10 @@ GET http://localhost:8080/greet
 
 POST http://localhost:8080/greet
 
-{"name": "arna"}
+{"name": "amogh"}
 
 ###
 
 PUT http://localhost:8080/greet
 
-{"name": "arna"}
+{"name": "amogh"}
